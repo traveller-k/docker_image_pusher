@@ -7,6 +7,7 @@
 #nvcr.io/nvidia/k8s-device-plugin:v0.16.2
 #4pdosc/k8s-device-plugin:latest
 #nvidia/cuda:11.0.3-base-ubuntu20.04
+library/ubuntu
 #rancher/rancher
 rancher/shell:v0.2.1
 rancher/mirrored-coredns-coredns:1.10.1
