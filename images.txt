@@ -9,6 +9,7 @@
 #nvidia/cuda:11.0.3-base-ubuntu20.04
 library/ubuntu
 #rancher/rancher
+tensorflow/tensorflow:latest-gpu
 rancher/shell:v0.2.1
 rancher/mirrored-coredns-coredns:1.10.1
 #postgres
