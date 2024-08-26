@@ -13,10 +13,10 @@
 #rancher/shell:v0.2.1
 #rancher/mirrored-coredns-coredns:1.10.1
 #postgres
-projecthami/hami:latest
-docker.io/jettech/kube-webhook-certgen:v1.5.2
-liangjw/kube-webhook-certgen:v1.1.1
-registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.23.10
+projecthami/hami:v2.3.13
+#docker.io/jettech/kube-webhook-certgen:v1.5.2
+#liangjw/kube-webhook-certgen:v1.1.1
+#registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.23.10
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
