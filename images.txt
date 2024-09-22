@@ -14,7 +14,8 @@
 #rancher/mirrored-coredns-coredns:1.10.1
 #postgres
 #projecthami/hami:v2.3.13
-certbot/certbot
+#certbot/certbot
+grafana/grafana
 #docker.io/jettech/kube-webhook-certgen:v1.5.2
 #liangjw/kube-webhook-certgen:v1.1.1
 #registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.23.10
