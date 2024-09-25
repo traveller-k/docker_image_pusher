@@ -17,7 +17,8 @@
 #certbot/certbot
 #grafana/grafana
 #registry.k8s.io/nfd/node-feature-discovery:v0.16.3
-nvidia/cuda:12.3.0-base-ubuntu22.04
+#nvidia/cuda:12.3.0-base-ubuntu22.04
+tensorflow/tensorflow:latest-gpu-jupyter
 #tensorflow/tensorflow:latest-jupyter
 #docker.io/jettech/kube-webhook-certgen:v1.5.2
 #liangjw/kube-webhook-certgen:v1.1.1
