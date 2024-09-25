@@ -16,7 +16,8 @@
 #projecthami/hami:v2.3.13
 #certbot/certbot
 #grafana/grafana
-registry.k8s.io/nfd/node-feature-discovery:v0.16.3
+#registry.k8s.io/nfd/node-feature-discovery:v0.16.3
+tensorflow/tensorflow:latest-jupyter
 #docker.io/jettech/kube-webhook-certgen:v1.5.2
 #liangjw/kube-webhook-certgen:v1.1.1
 #registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.23.10
