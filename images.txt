@@ -18,8 +18,8 @@
 #grafana/grafana
 #registry.k8s.io/nfd/node-feature-discovery:v0.16.3
 #nvidia/cuda:12.3.0-base-ubuntu22.04
-tensorflow/tensorflow:latest-gpu-jupyter
-nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04
+#tensorflow/tensorflow:latest-gpu-jupyter
+#nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04
 #tensorflow/tensorflow:latest-jupyter
 #docker.io/jettech/kube-webhook-certgen:v1.5.2
 #liangjw/kube-webhook-certgen:v1.1.1
@@ -29,3 +29,16 @@ nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+
+nvcr.io/nvidia/cloud-native/gpu-operator-validator
+nvcr.io/nvidia/gpu-operator
+nvcr.io/nvidia/cuda:12.6.2-base-ubi9
+nvcr.io/nvidia/driver:550.90.12
+nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.7.0
+nvcr.io/nvidia/k8s/container-toolkit:v1.16.2-ubuntu20.04
+nvcr.io/nvidia/k8s-device-plugin:v0.16.2-ubi8
+nvcr.io/nvidia/cloud-native/dcgm:3.3.8-1-ubuntu22.04
+nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04
+nvcr.io/nvidia/k8s-device-plugin:v0.16.2-ubi8
+nvcr.io/nvidia/cloud-native/k8s-mig-manager:v0.8.0-ubuntu20.04
