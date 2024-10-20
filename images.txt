@@ -19,6 +19,7 @@
 #registry.k8s.io/nfd/node-feature-discovery:v0.16.3
 #nvidia/cuda:12.3.0-base-ubuntu22.04
 tensorflow/tensorflow:latest-gpu-jupyter
+nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04
 #tensorflow/tensorflow:latest-jupyter
 #docker.io/jettech/kube-webhook-certgen:v1.5.2
 #liangjw/kube-webhook-certgen:v1.1.1
