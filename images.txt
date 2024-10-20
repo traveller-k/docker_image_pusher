@@ -34,7 +34,7 @@
 nvcr.io/nvidia/cloud-native/gpu-operator-validator
 nvcr.io/nvidia/gpu-operator
 nvcr.io/nvidia/cuda:12.6.2-base-ubi9
-nvcr.io/nvidia/driver:550.90.12
+#nvcr.io/nvidia/driver:550.90.12
 nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.2.10
 nvcr.io/nvidia/k8s-device-plugin:v0.16.2-ubi8
 
