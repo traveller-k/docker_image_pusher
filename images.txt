@@ -29,11 +29,13 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nvcr.io/nvidia/cloud-native/nvidia-fs:2.17.5
-nvcr.io/nvidia/driver:550.90.07
-nvcr.io/nvidia/cloud-native/gdrdrv:v2.4.1-1
+#nvcr.io/nvidia/cloud-native/nvidia-fs:2.17.5
+#nvcr.io/nvidia/driver:550.90.07
+#nvcr.io/nvidia/cloud-native/gdrdrv:v2.4.1-1
 
-registry.k8s.io/nfd/node-feature-discovery
+registry.k8s.io/nfd/node-feature-discovery:v0.14.2
+
+#registry.k8s.io/nfd/node-feature-discovery
 #nvcr.io/nvidia/cloud-native/gpu-operator-validator
 #nvcr.io/nvidia/gpu-operator
 #nvcr.io/nvidia/cuda:12.6.1-base-ubi8
