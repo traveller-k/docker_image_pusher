@@ -33,6 +33,8 @@
 #nvcr.io/nvidia/driver:550.90.07
 #nvcr.io/nvidia/cloud-native/gdrdrv:v2.4.1-1
 
+jupyter/scipy-notebook
+
 registry.k8s.io/nfd/node-feature-discovery:v0.14.2
 
 #registry.k8s.io/nfd/node-feature-discovery
