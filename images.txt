@@ -33,9 +33,9 @@
 #nvcr.io/nvidia/driver:550.90.07
 #nvcr.io/nvidia/cloud-native/gdrdrv:v2.4.1-1
 
-rocketmqinc/rocketmq
-styletang/rocketmq-console-ng
-
+#rocketmqinc/rocketmq
+#styletang/rocketmq-console-ng
+minio/minio:RELEASE.2022-08-22T23-53-06Z.hotfix.5fa3967bb
 
 
 #jupyter/scipy-notebook
