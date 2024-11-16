@@ -39,11 +39,11 @@
 
 #redis:alpine3.16
 #mysql:8.0.30
-jumpserver/core:2.4
-#jumpserver/koko:2.4
-#jumpserver/lion:2.4
-#jumpserver/magnus:2.4
-#jumpserver/web:2.4
+jumpserver/core:v2.28.7
+jumpserver/koko:v2.28.7
+jumpserver/lion:v2.28.7
+jumpserver/magnus:v2.28.7
+jumpserver/web:v2.28.7
 #mariadb:10.6
 #redis:6
 
