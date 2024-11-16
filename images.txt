@@ -37,9 +37,9 @@
 #styletang/rocketmq-console-ng
 #minio/minio:RELEASE.2022-08-22T23-53-06Z.hotfix.5fa3967bb
 
-redis:alpine3.16
-mysql:8.0.30
-#jumpserver/core:2.4
+#redis:alpine3.16
+#mysql:8.0.30
+jumpserver/core:2.4
 #jumpserver/koko:2.4
 #jumpserver/lion:2.4
 #jumpserver/magnus:2.4
