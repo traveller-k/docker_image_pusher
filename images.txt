@@ -39,13 +39,13 @@
 
 redis:alpine3.16
 mysql:8.0.30
-jumpserver/core:2.4
-jumpserver/koko:2.4
-jumpserver/lion:2.4
-jumpserver/magnus:2.4
-jumpserver/web:2.4
-mariadb:10.6
-redis:6
+#jumpserver/core:2.4
+#jumpserver/koko:2.4
+#jumpserver/lion:2.4
+#jumpserver/magnus:2.4
+#jumpserver/web:2.4
+#mariadb:10.6
+#redis:6
 
 #jupyter/scipy-notebook
 
