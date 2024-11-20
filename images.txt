@@ -47,7 +47,8 @@
 #gitlab/gitlab-ce:latest
 #mariadb:10.6
 #redis:6
-easysoft/zentao:21.1
+#easysoft/zentao:21.1
+gitlab-ee:17.3.7-ee.0
 #jupyter/scipy-notebook
 
 #registry.k8s.io/nfd/node-feature-discovery:v0.14.2
