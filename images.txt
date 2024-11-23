@@ -49,10 +49,10 @@
 #redis:6
 #easysoft/zentao:21.1
 #gitlab/gitlab-ee:17.3.7-ee.0
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.4.15
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#milvusdb/milvus:v2.4.15
 #jupyter/scipy-notebook
-
+neo4j:5.25.1
 #registry.k8s.io/nfd/node-feature-discovery:v0.14.2
 
 #registry.k8s.io/nfd/node-feature-discovery
