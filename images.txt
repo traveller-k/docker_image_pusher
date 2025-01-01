@@ -52,9 +52,9 @@
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #milvusdb/milvus:v2.4.15
 #jupyter/scipy-notebook
-neo4j:5.25.1
+#neo4j:5.25.1
 #registry.k8s.io/nfd/node-feature-discovery:v0.14.2
-
+jumpserver/core:v4.5.0-ce
 #registry.k8s.io/nfd/node-feature-discovery
 #nvcr.io/nvidia/cloud-native/gpu-operator-validator
 #nvcr.io/nvidia/gpu-operator
