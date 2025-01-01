@@ -55,6 +55,10 @@
 #neo4j:5.25.1
 #registry.k8s.io/nfd/node-feature-discovery:v0.14.2
 jumpserver/core:v4.5.0-ce
+jumpserver/koko:v4.5.0-ce
+jumpserver/lion:v4.5.0-ce
+jumpserver/magnus:v4.5.0-ce
+jumpserver/web:v4.5.0-ce
 #registry.k8s.io/nfd/node-feature-discovery
 #nvcr.io/nvidia/cloud-native/gpu-operator-validator
 #nvcr.io/nvidia/gpu-operator
