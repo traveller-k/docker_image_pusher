@@ -57,7 +57,7 @@
 jumpserver/core:v4.5.0-ce
 jumpserver/koko:v4.5.0-ce
 jumpserver/lion:v4.5.0-ce
-jumpserver/magnus:v4.5.0-ce
+jumpserver/magnus:v3.10.16
 jumpserver/web:v4.5.0-ce
 #registry.k8s.io/nfd/node-feature-discovery
 #nvcr.io/nvidia/cloud-native/gpu-operator-validator
