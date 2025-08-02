@@ -3,4 +3,3 @@ mysql
 snowdreamtech/frps
 snowdreamtech/frpc
 v2fly/v2fly-core
-summary/openwrt-aarch64:latest
